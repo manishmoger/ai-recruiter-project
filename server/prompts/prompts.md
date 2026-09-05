@@ -1,6 +1,6 @@
 # LLM Prompts
 
-All prompts used in this application. These are the exact strings sent to Gemini.
+All prompts used in this application. These are the exact strings sent to the LLM (Groq — llama-3.3-70b-versatile).
 
 ---
 

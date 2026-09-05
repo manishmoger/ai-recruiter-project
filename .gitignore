@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# env files - never commit these
+.env
+.env.local
+.env.*
+
+# build output
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db

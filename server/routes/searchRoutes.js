@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-const { generateSearch } = require("../services/gemini");
+const { generateSearch } = require("../services/llm");
 const { filterProfiles } = require("../services/filterProfiles");
 const { getProfiles } = require("../services/profileService");
 const { scoreProfile } = require("../services/scoreProfiles");
