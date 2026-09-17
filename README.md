@@ -1,4 +1,4 @@
-# Flexiple AI Recruiter
+# AI Recruiter
 
 A full-stack sourcing tool built for Flexiple's engineering assignment. A recruiter types what they're looking for in plain English, the app generates structured filters and a scoring rubric using an LLM, ranks matching candidates, and lets the recruiter refine results through a chat feedback loop until they're happy. When the search looks right, they lock it in and get a final shortlist.
 
